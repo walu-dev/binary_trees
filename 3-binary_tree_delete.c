@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_delete - using recursion it free the node * when the node left and right are NULL
+ * binary_tree_delete - using recursion it free the node
  * @tree: tree to free
  * Return: Nothing
  */
